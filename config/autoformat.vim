@@ -10,3 +10,4 @@ noremap <F3> :Autoformat<CR> "设置快捷键
 "let g:formatdef_rubocop =  "rubocop --format  "
 "let g:formatters_ruby=['rubocop']
 
+
